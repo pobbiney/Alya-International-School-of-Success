@@ -45,6 +45,8 @@
     <link rel="stylesheet" href="{{asset('frontend/assets/css/slick.min.css')}}">
     <!-- Theme Custom CSS -->
     <link rel="stylesheet" href="{{asset('frontend/assets/css/style.css')}}">
+
+    
      @yield('css')
 </head>
 
@@ -131,12 +133,12 @@
             <div class="widget  ">
                 <h3 class="widget_title">Get In Touch</h3>
                 <div>
-                    <p class="footer-text">Monday to Friday: <span class="time">7.00am – 04.00pm</span></p>
+                    <p class="footer-text">Monday to Friday: <span class="time">6.00am – 6.00pm</span></p>
                      
                     <p class="footer-info"><i class="fal fa-envelope"></i>Email: <a
-                            href="mailto:user@domainname.com">user@domainname.com</a></p>
-                    <p class="footer-info"><i class="fas fa-mobile-alt"></i>Phone: <a href="tel:+4402076897888">+44 (0)
-                            207 689 7888</a></p>
+                            href="mailto:alyaintsch@gmail.com">alyaintsch@gmail.com</a></p>
+                    <p class="footer-info"><i class="fas fa-mobile-alt"></i>Phone: <a href="tel:+233557158426">+233 (0)
+                            557 158 426</a></p>
                 </div>
             </div>
             
@@ -173,9 +175,8 @@
                         <div class="header-links style2 style-white">
                             <ul>
                                 <li><i class="fas fa-envelope"></i>Email: <a
-                                        href="mailto:user@example.com">user@example.com</a></li>
-                                <li><i class="fas fa-mobile-alt"></i>Phone: <a href="tel:+4402076897888">+44 (0) 207 689
-                                        7888</a></li>
+                                        href="mailto:alyaintsch@gmail.com">alyaintsch@gmail.com</a></li>
+                                <li><i class="fas fa-mobile-alt"></i>Phone: <a href="tel:+233557158426">+233 (0) 557 158 426</a></li>
                             </ul>
                         </div>
                     </div>
@@ -291,12 +292,12 @@
                         <div class="widget footer-widget">
                             <h3 class="widget_title">Get In Touch</h3>
                             <div>
-                                <p class="footer-text">Monday to Friday: <span class="time">7.00am – 04.00pm</span></p>
+                                <p class="footer-text">Monday to Friday: <span class="time">6.00am – 06.00pm</span></p>
                                 
                                 <p class="footer-info"><i class="fal fa-envelope"></i>Email: <a
-                                        href="mailto:user@domainname.com">user@domainname.com</a></p>
+                                        href="mailto:alyaintsch@gmail.com">alyaintsch@gmail.com</a></p>
                                 <p class="footer-info"><i class="fas fa-mobile-alt"></i>Phone: <a
-                                        href="tel:+4402076897888">+44 (0) 207 689 7888</a></p>
+                                        href="tel:+233557158426">+233 (0) 557 158 426</a></p>
                             </div>
                         </div>
                     </div>
@@ -366,6 +367,10 @@
     <script src="{{asset('frontend/assets/js/isotope.pkgd.min.js')}}"></script>
     <!-- Main Js File -->
     <script src="{{asset('frontend/assets/js/main.js')}}"></script>
+
+      
+    <script src="{{asset('frontend/assets/js/datecounter.js')}}"></script>
+    
 
 @yield('scripts')
 </body>
