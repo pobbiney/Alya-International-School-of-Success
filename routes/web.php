@@ -62,6 +62,8 @@ Route::get('ViewMessages',[BackendController::class,'getViewMessagesView'])->nam
 /*Website Frontend */
 Route::get('/',[FrontendController::class,'gethomeView'])->name('home');
 Route::get('about',[FrontendController::class,'getaboutView'])->name('about');
+Route::get('contact',[FrontendController::class,'getcontactView'])->name('contact');
+Route::get('admission',[FrontendController::class,'getadmissionView'])->name('admission');
  
 
 /*End of Website Frontend */

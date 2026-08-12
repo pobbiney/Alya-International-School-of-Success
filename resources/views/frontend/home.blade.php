@@ -233,7 +233,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="registration.html" class="vs-btn style4" tabindex="0">Discover More</a>
+                    <a href="about" class="vs-btn style4" tabindex="0">Discover More</a>
                 </div>
                 <div class="col-xl-auto col-lg-6 mb-30">
                     <div class="img-box11">
@@ -241,7 +241,7 @@
                         <img src="{{asset('frontend/assets/img/about/ab-8.png')}}" alt="ab" class="img2">
                         <div class="special-fact">
                             <span class="fact-title">Trusted By</span>
-                            <span class="fact-number">5480+</span>
+                            <span class="fact-number">80+</span>
                         </div>
                     </div>
                 </div>

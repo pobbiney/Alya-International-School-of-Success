@@ -24,5 +24,15 @@ class FrontendController extends Controller
  {
     return view('frontend.about');
  }
+
+ public function getcontactView()
+ {
+   return view('frontend.contact');
+ }
+
+ public function getadmissionView()
+ {
+   return view('frontend.admission');
+ }
     
 }

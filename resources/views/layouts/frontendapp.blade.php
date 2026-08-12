@@ -94,11 +94,11 @@
                         <a href="{{ route('about') }}">About</a>
                         <ul class="sub-menu">
                             <li><a href="{{ route('about') }}">Our History</a></li>
-                             <li><a href="class.html">Facilities</a></li>
+                             <li><a href="#">Facilities</a></li>
                         </ul>
                     </li>
                     <li  >
-                        <a href="blog.html">Admissions</a>
+                        <a href="admission">Admissions</a>
                         
                     </li>
                     <li class="menu-item-has-children">
@@ -111,7 +111,7 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="contact.html">Contact Us</a>
+                        <a href="contact">Contact Us</a>
                     </li>
                 </ul>
             </div>
@@ -210,7 +210,7 @@
                                         </ul>
                                     </li>
                                     <li  >
-                                        <a href="blog.html">Admissions</a>
+                                        <a href="admission">Admissions</a>
                                         
                                     </li>
                                     <li class="menu-item-has-children">
@@ -223,7 +223,7 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="contact.html">Contact Us</a>
+                                        <a href="contact">Contact Us</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -266,8 +266,7 @@
                         <div class="widget footer-widget">
                             <div class="widget-about">
                                 <h3 class="mt-n2">Giving your child the best start in life</h3>
-                                <p class="map-link"><img src="{{asset('frontend/assets/img/icon/map.svg')}}" alt="svg">First Floor, 10A
-                                    Chandos Street London New Town W1G 9LE</p>
+                                <p class="map-link"><img src="{{asset('frontend/assets/img/icon/map.svg')}}" alt="svg">Tema Community 25, Opposite MTN Warehouse</p>
                                 <div class="sidebar-gallery">
                                     <div class="gallery-thumb">
                                         <img src="{{asset('frontend/assets/img/widget/gal-2-1.jpg')}}" alt="Gallery Image" class="w-100">
@@ -308,10 +307,10 @@
                                 <ul class="menu">
                                     <li><a href="#">About</a></li>
                                     <li><a href="#">Our History</a></li>
-                                    <li><a href="#">Admissions</a></li>
+                                    <li><a href="admission">Admissions</a></li>
                                     <li><a href="#">Gallery</a></li>
                                     
-                                    <li><a href="#">Contact Us</a></li>
+                                    <li><a href="contact">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
