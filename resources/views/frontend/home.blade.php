@@ -376,7 +376,7 @@
                 </div>
                 <div class="service-style1 col-xl-3">
                     <div class="service-body">
-                        <div class="service-img"><a href="#"><img src="{{asset('frontend/assets/img/service/ms.png')}}"
+                        <div class="service-img"><a href="#"><img src="{{asset('frontend/assets/img/service/sr-1-1.jpg')}}"
                                     alt="service"></a></div>
                         <div class="service-content">
                             <div class="service-icon"><img src="{{asset('frontend/assets/img/icon/sr-1-3.svg')}}" alt="icon"></div>
@@ -388,7 +388,7 @@
                 </div>
                 <div class="service-style1 col-xl-3">
                     <div class="service-body">
-                        <div class="service-img"><a href="#"><img src="{{asset('frontend/assets/img/service/ms.png')}}"
+                        <div class="service-img"><a href="#"><img src="{{asset('frontend/assets/img/service/sr-1-4.jpg')}}"
                                     alt="service"></a></div>
                         <div class="service-content">
                             <div class="service-icon"><img src="{{asset('frontend/assets/img/icon/sr-1-4.svg')}}" alt="icon"></div>
@@ -414,11 +414,11 @@
                         <div class="table-body">
                             <div class="tr">
                                 <div class="th">Early Drop Off</div>
-                                <div class="td">8.00am – 10.00am</div>
+                                <div class="td">6.00am – 10.00am</div>
                             </div>
                             <div class="tr">
                                 <div class="th">Morning</div>
-                                <div class="td">10.30am – 12.00am</div>
+                                <div class="td">7.00am – 9.00am</div>
                             </div>
                             <div class="tr">
                                 <div class="th">Lunch</div>
