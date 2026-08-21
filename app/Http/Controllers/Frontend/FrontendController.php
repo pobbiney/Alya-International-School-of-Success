@@ -34,5 +34,10 @@ class FrontendController extends Controller
  {
    return view('frontend.admission');
  }
+
+ public function getfounderView()
+ {
+   return view('frontend.founder');
+ }
     
 }

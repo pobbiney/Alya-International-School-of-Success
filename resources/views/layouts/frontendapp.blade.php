@@ -94,6 +94,7 @@
                         <a href="{{ route('about') }}">About</a>
                         <ul class="sub-menu">
                             <li><a href="{{ route('about') }}">Our History</a></li>
+                            <li><a href="{{ route('founder') }}">Meet The  Founder</a></li>
                              <li><a href="#">Facilities</a></li>
                         </ul>
                     </li>
@@ -104,9 +105,9 @@
                     <li class="menu-item-has-children">
                         <a href="#">Media</a>
                         <ul class="sub-menu">
-                            <li><a href="service.html">Gallery</a></li>
-                            <li><a href="service-details.html">Events</a></li>
-                            <li><a href="team.html">Blog</a></li>
+                            <li><a href="#">Gallery</a></li>
+                            <li><a href="#">Events</a></li>
+                            <li><a href="#">Blog</a></li>
                            
                         </ul>
                     </li>
@@ -164,7 +165,7 @@
                     <div class="col-auto d-none d-lg-block">
                         <div class="header-links style-white">
                             {{-- <ul>
-                                <li><a href="registration.html"><i class="far fa-user-circle"></i>Login & Register</a>
+                                <li><a href="#"><i class="far fa-user-circle"></i>Login & Register</a>
                                 </li>
                                 <li><a href="contact.html" class="searchBoxTggler"><i class="far fa-search"></i>Search
                                         Keyword</a></li>
@@ -206,7 +207,8 @@
                                         <a href="{{ route('about') }}">About</a>
                                         <ul class="sub-menu">
                                             <li><a href="{{ route('about') }}">Our History</a></li>
-                                            <li><a href="class.html">Facilities</a></li>
+                                            <li><a href="{{ route('founder') }}">Meet The  Founder</a></li>
+                                            <li><a href="#">Facilities</a></li>
                                         </ul>
                                     </li>
                                     <li  >
@@ -216,9 +218,9 @@
                                     <li class="menu-item-has-children">
                                         <a href="#">Media</a>
                                         <ul class="sub-menu">
-                                            <li><a href="service.html">Gallery</a></li>
-                                            <li><a href="service-details.html">Events</a></li>
-                                            <li><a href="team.html">Blog</a></li>
+                                            <li><a href="#">Gallery</a></li>
+                                            <li><a href="#">Events</a></li>
+                                            <li><a href="#">Blog</a></li>
                                         
                                         </ul>
                                     </li>

@@ -64,6 +64,7 @@ Route::get('/',[FrontendController::class,'gethomeView'])->name('home');
 Route::get('about',[FrontendController::class,'getaboutView'])->name('about');
 Route::get('contact',[FrontendController::class,'getcontactView'])->name('contact');
 Route::get('admission',[FrontendController::class,'getadmissionView'])->name('admission');
+Route::get('founder',[FrontendController::class,'getfounderView'])->name('founder');
  
 
 /*End of Website Frontend */
